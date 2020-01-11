@@ -1,0 +1,20 @@
+/* Mobile Views */
+@media only screen and (max-width: 480px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+/* Tablet Views */
+@media only screen and (max-width: 960px) {
+  body {
+    background-color: lightpink;
+  }
+}
+ 
+/* Desktop Views */
+@media only screen and (max-width: 1200px) {
+  body {
+    background-color: lightgreen;
+  }
+}
