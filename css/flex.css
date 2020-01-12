@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+div {
+  width: 100%;
+
+}
+
+.a {
+  height: 9.375%;
+}
+
+.b {
+  height: 16.66%;
+}
