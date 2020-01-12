@@ -1,7 +1,8 @@
 /* Mobile Views */
-@media only screen and (min-width: 480px) and (max-width: 767px) {
+@media only screen and (max-width: 767px) {
   body {
     width: 100%;
+    min-width: 480px;
     max-width: 767px;
     height: 900px;
   }
